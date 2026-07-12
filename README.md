@@ -1,2 +1,17 @@
 # linux-security-learning
-What I Learned from My First Linux Security Assessment
+
+
+This repository documents my journey learning Linux security fundamentals.
+
+Topics include:
+
+- Linux permissions
+- SUID
+- sudo
+- Linux capabilities
+- AppArmor
+- systemd services
+- Static code review
+- Security enumeration
+
+The content is based on publicly available Linux concepts and personal learning. No confidential information from private engagements or non-public environments is included.
